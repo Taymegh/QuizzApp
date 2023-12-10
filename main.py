@@ -10,3 +10,9 @@ class MyQuizz(App):
     def build(self):
         return Label(text="Enfin")
     
+
+
+if __name__ == '__main__':
+    MyQuizz.run()
+
+    
