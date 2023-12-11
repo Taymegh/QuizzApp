@@ -1,2 +1,3 @@
 import kivy
 
+print("lawis")
